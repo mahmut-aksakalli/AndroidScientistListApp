@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ScientistBiography</string>
+    <string name="shannon_story">
+        Claude Elwood Shannon\n
+        30.04.1916 - 24.02.2001\n
+        Biography:\n
+        He was an American mathematician, electrical engineer, and cryptographer known as "the father of information theory.
+    </string>
+    <string name="shockley_story">
+        William Shockley\n
+        13.02.1910 - 12.08.1989\n
+        He was an American physicist and inventor. Shockley was the manager of a research group at Bell Labs. They were jointly awarded the 1956 Nobel Prize in Physics for their discovery of the transistor effect.
+    </string>
+    <string name="guido_story">
+        Guido van Rossum\n
+        31.01.1956\n
+        He is a Dutch programmer best known as the author of the Python programming language which means he continues to oversee Python development.
+    </string>
+
+    <string-array name="shannonQuotes">
+        <item>Information is the resolution of uncertainty.</item>
+        <item>I visualize a time when we will be to robots what dogs are to humans, and I'm rooting for the machines.</item>
+        <item>Information: the negative reciprocal value of probability.</item>
+        <item>I just wondered how things were put together.</item>
+    </string-array>
+
+    <string-array name="shockleyQuotes">
+        <item>The objective of producing useful devices has strongly influenced the choice of the research projects with which I have been associated.</item>
+        <item>Frequently, I have been asked if an experiment I have planned is pure or applied research; to me, it is more important to know if the experiment will yield new and probably enduring knowledge about nature.</item>
+    </string-array>
+
+    <string-array name="guidoQuotes">
+        <item>If you decide to design your own language, there are thousands of sort of amateur language designer pitfalls.</item>
+        <item>I have this hope that there is a better way. Higher-level tools that actually let you see the structure of the software more clearly will be of tremendous value.</item>
+    </string-array>
+
+</resources>
